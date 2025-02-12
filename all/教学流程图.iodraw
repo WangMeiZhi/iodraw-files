@@ -1,0 +1,319 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="24.7.17">
+  <diagram id="P-FLB3ng-8zm5jahk_r2" name="Page-1">
+    <mxGraphModel dx="1715" dy="2017" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-76" value="活动一：&lt;div&gt;实践出真知&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="120" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-77" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;exitX=1.008;exitY=0.525;exitPerimeter=0;align=center;" parent="1" source="FI8OPE-p3hhHVf1YDgqs-76" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="120" as="sourcePoint" />
+            <mxPoint x="320" y="122" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-78" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="240" as="sourcePoint" />
+            <mxPoint x="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-79" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" as="sourcePoint" />
+            <mxPoint x="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-80" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="50" as="sourcePoint" />
+            <mxPoint x="360" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-81" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="100" as="sourcePoint" />
+            <mxPoint x="360" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-82" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="140" as="sourcePoint" />
+            <mxPoint x="360" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-83" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="190" as="sourcePoint" />
+            <mxPoint x="360" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-84" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="240" as="sourcePoint" />
+            <mxPoint x="360" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-85" value="1.想一想，认一认" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="360" y="-30" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-86" value="2.量一量" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="360" y="30" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-87" value="3.猜一猜" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="360" y="80" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-88" value="4.动动手" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="360" y="130" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-89" value="5.你能行" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="360" y="180" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-90" value="6.你真行" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="360" y="230" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-91" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;entryX=1.02;entryY=0.525;entryPerimeter=0;exitX=1.013;exitY=0.65;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;align=center;" parent="1" source="FI8OPE-p3hhHVf1YDgqs-87" target="FI8OPE-p3hhHVf1YDgqs-86" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="180" as="sourcePoint" />
+            <mxPoint x="610" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="106" />
+              <mxPoint x="560" y="51" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-92" value="猜想与操作" style="ellipse;whiteSpace=wrap;html=1;rounded=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="600" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-93" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;exitX=1.013;exitY=0.45;exitPerimeter=0;entryX=1.02;entryY=0.525;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="FI8OPE-p3hhHVf1YDgqs-88" target="FI8OPE-p3hhHVf1YDgqs-90" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="240" as="sourcePoint" />
+            <mxPoint x="650" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="148" />
+              <mxPoint x="560" y="251" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-94" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;exitX=1.013;exitY=0.525;exitPerimeter=0;" parent="1" source="FI8OPE-p3hhHVf1YDgqs-89" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="240" as="sourcePoint" />
+            <mxPoint x="560" y="201" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-95" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;exitX=0;exitY=0.5;exitPerimeter=0;" parent="1" source="FI8OPE-p3hhHVf1YDgqs-92" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="180" as="sourcePoint" />
+            <mxPoint x="560" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-96" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;exitX=0;exitY=0.5;exitPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="200" as="sourcePoint" />
+            <mxPoint x="560" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-97" value="动手拼，观察小组内交流，用多种方法验证猜想，探究添加辅助线方法" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="600" y="120" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-98" value="得&lt;div&gt;到&lt;/div&gt;&lt;div&gt;定&lt;/div&gt;&lt;div&gt;律&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="760" y="120" width="50" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-99" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;exitX=0;exitY=0.5;exitPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="200" as="sourcePoint" />
+            <mxPoint x="720" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-100" value="活动二：&lt;div&gt;比一比赛一赛&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="120" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-101" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;exitX=1;exitY=0.5;exitPerimeter=0;" parent="1" source="FI8OPE-p3hhHVf1YDgqs-100" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="420" as="sourcePoint" />
+            <mxPoint x="280" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-102" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="400" as="sourcePoint" />
+            <mxPoint x="280" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-103" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="320" as="sourcePoint" />
+            <mxPoint x="320" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-104" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="400" as="sourcePoint" />
+            <mxPoint x="320" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-105" value="1.分组竞赛" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="320" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-106" value="3.巡回指导" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="320" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-107" value="2.教师点评" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="500" y="300" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-108" value="4.规范解题格式" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="500" y="380" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-109" value="活动三：&lt;div&gt;学会应用&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="120" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-110" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;exitX=1;exitY=0.5;exitPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="520" as="sourcePoint" />
+            <mxPoint x="280" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-111" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="560" as="sourcePoint" />
+            <mxPoint x="280" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-112" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="480" as="sourcePoint" />
+            <mxPoint x="320" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-113" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="560" as="sourcePoint" />
+            <mxPoint x="320" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-114" value="1.一题多解训练" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="320" y="460" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-115" value="2.涉及实际应用" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="320" y="540" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-116" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;exitX=1.013;exitY=0.5;exitPerimeter=0;" parent="1" source="FI8OPE-p3hhHVf1YDgqs-115" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="590" as="sourcePoint" />
+            <mxPoint x="680" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-117" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;entryX=1.019;entryY=0.45;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" parent="1" target="FI8OPE-p3hhHVf1YDgqs-114" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="560" as="sourcePoint" />
+            <mxPoint x="600" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="478" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-118" value="巩固知识强化应用培养能力形成解题技巧" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="680" y="490" width="80" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-119" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;exitX=1.007;exitY=0.5;exitPerimeter=0;entryX=1;entryY=0.425;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="FI8OPE-p3hhHVf1YDgqs-107" target="FI8OPE-p3hhHVf1YDgqs-108" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="380" as="sourcePoint" />
+            <mxPoint x="710" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="320" />
+              <mxPoint x="680" y="397" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-120" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;entryX=0.575;entryY=0;entryPerimeter=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" target="FI8OPE-p3hhHVf1YDgqs-118" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="360" as="sourcePoint" />
+            <mxPoint x="760" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="700" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-121" value="活动四：&lt;div&gt;指导实践&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="120" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-122" value="培养学生数学应用知识" style="rhombus;whiteSpace=wrap;html=1;rounded=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="330" y="640" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-123" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;entryX=0.007;entryY=0.508;entryPerimeter=0;exitX=1.003;exitY=0.488;exitPerimeter=0;" parent="1" source="FI8OPE-p3hhHVf1YDgqs-121" target="FI8OPE-p3hhHVf1YDgqs-122" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="730" as="sourcePoint" />
+            <mxPoint x="280" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-124" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0.519;entryY=1.022;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="FI8OPE-p3hhHVf1YDgqs-122" target="FI8OPE-p3hhHVf1YDgqs-118" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="730" as="sourcePoint" />
+            <mxPoint x="670" y="680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="722" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-125" value="活动五：&lt;div&gt;知识回顾与小结&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="120" y="800" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-126" value="以小组为单位小结" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="320" y="810" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-127" value="课后再探（知识拓展延伸，激发兴趣培养优生）" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="560" y="800" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-128" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;exitX=1.019;exitY=0.404;exitPerimeter=0;entryX=0.005;entryY=0.432;entryPerimeter=0;" parent="1" source="FI8OPE-p3hhHVf1YDgqs-125" target="FI8OPE-p3hhHVf1YDgqs-126" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="900" as="sourcePoint" />
+            <mxPoint x="310" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-129" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;exitX=1.019;exitY=0.404;exitPerimeter=0;entryX=0.005;entryY=0.432;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480.2413793103449" y="830.3103448275865" as="sourcePoint" />
+            <mxPoint x="558.8620689655172" y="829.6206896551726" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-130" value="活动六：&lt;div&gt;知识检测&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="120" y="960" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-131" value="以测促学，以测&lt;div&gt;促教，激发兴趣，&lt;/div&gt;&lt;div&gt;提高实效&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="385" y="935" width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-132" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;exitX=1.024;exitY=0.507;exitPerimeter=0;entryX=-0.015;entryY=0.499;entryPerimeter=0;" parent="1" source="FI8OPE-p3hhHVf1YDgqs-130" target="FI8OPE-p3hhHVf1YDgqs-131" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="1020" as="sourcePoint" />
+            <mxPoint x="330" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-133" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;entryX=0.508;entryY=-0.045;entryPerimeter=0;" parent="1" target="FI8OPE-p3hhHVf1YDgqs-100" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="170" as="sourcePoint" />
+            <mxPoint x="260" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-134" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="400.0000000000002" as="sourcePoint" />
+            <mxPoint x="181" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-135" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="560" as="sourcePoint" />
+            <mxPoint x="181" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-136" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="720" as="sourcePoint" />
+            <mxPoint x="181" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
