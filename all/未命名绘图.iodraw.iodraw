@@ -268,88 +268,88 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uBsyKS8tajvV3OcIKyqI-49" value="研究方法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1781" y="1400" width="307" height="469" as="geometry" />
+          <mxGeometry x="1826" y="1420" width="307" height="469" as="geometry" />
         </mxCell>
         <mxCell id="uBsyKS8tajvV3OcIKyqI-50" value="研究内容" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="543" y="1889" width="1545" height="1317" as="geometry" />
+          <mxGeometry x="588" y="1909" width="1545" height="1317" as="geometry" />
         </mxCell>
         <mxCell id="uBsyKS8tajvV3OcIKyqI-51" value="研究思路" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="190" y="2159" width="303" height="958" as="geometry" />
+          <mxGeometry x="235" y="2179" width="303" height="958" as="geometry" />
         </mxCell>
         <mxCell id="uBsyKS8tajvV3OcIKyqI-52" value="核心研究思路: 农村劳动力空间流动如何驱动农业价值链重构并促进高质量发展" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="215" y="2870" width="253" height="102" as="geometry" />
+          <mxGeometry x="260" y="2890" width="253" height="102" as="geometry" />
         </mxCell>
         <mxCell id="uBsyKS8tajvV3OcIKyqI-53" value="专题一: 劳动力流动冲击下农业价值链演变规律分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="568" y="2157" width="253" height="84" as="geometry" />
+          <mxGeometry x="613" y="2177" width="253" height="84" as="geometry" />
         </mxCell>
         <mxCell id="uBsyKS8tajvV3OcIKyqI-54" value="1.1 劳动力流动动态特征与动因" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="872" y="1924" width="252" height="67" as="geometry" />
+          <mxGeometry x="917" y="1944" width="252" height="67" as="geometry" />
         </mxCell>
         <mxCell id="uBsyKS8tajvV3OcIKyqI-55" value="1.2 农业价值链发展规律与特征" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="871" y="2040" width="253" height="67" as="geometry" />
+          <mxGeometry x="916" y="2060" width="253" height="67" as="geometry" />
         </mxCell>
         <mxCell id="uBsyKS8tajvV3OcIKyqI-56" value="1.3 劳动力流动对价值链的动态冲击效应" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="871" y="2157" width="253" height="84" as="geometry" />
+          <mxGeometry x="916" y="2177" width="253" height="84" as="geometry" />
         </mxCell>
         <mxCell id="uBsyKS8tajvV3OcIKyqI-57" value="专题二: 劳动力流动与价值链调整互动机制研究" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="872" y="2492" width="252" height="84" as="geometry" />
+          <mxGeometry x="917" y="2512" width="252" height="84" as="geometry" />
         </mxCell>
         <mxCell id="uBsyKS8tajvV3OcIKyqI-58" value="2.1 系统边界与反馈机制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1185" y="2311" width="231" height="49" as="geometry" />
+          <mxGeometry x="1230" y="2331" width="231" height="49" as="geometry" />
         </mxCell>
         <mxCell id="uBsyKS8tajvV3OcIKyqI-59" value="2.2 动态模型与结构方程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1184" y="2410" width="232" height="49" as="geometry" />
+          <mxGeometry x="1229" y="2430" width="232" height="49" as="geometry" />
         </mxCell>
         <mxCell id="uBsyKS8tajvV3OcIKyqI-60" value="2.3 模型结构合理性检验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1184" y="2509" width="232" height="49" as="geometry" />
+          <mxGeometry x="1229" y="2529" width="232" height="49" as="geometry" />
         </mxCell>
         <mxCell id="uBsyKS8tajvV3OcIKyqI-61" value="专题三: 劳动力流动对价值链重构机制量化检验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1174" y="2809" width="253" height="84" as="geometry" />
+          <mxGeometry x="1219" y="2829" width="253" height="84" as="geometry" />
         </mxCell>
         <mxCell id="uBsyKS8tajvV3OcIKyqI-62" value="3.1 实证检验核心机制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1496" y="2628" width="215" height="49" as="geometry" />
+          <mxGeometry x="1541" y="2648" width="215" height="49" as="geometry" />
         </mxCell>
         <mxCell id="uBsyKS8tajvV3OcIKyqI-63" value="3.2 参数估计与模型标定" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1488" y="2727" width="232" height="49" as="geometry" />
+          <mxGeometry x="1533" y="2747" width="232" height="49" as="geometry" />
         </mxCell>
         <mxCell id="uBsyKS8tajvV3OcIKyqI-64" value="3.3 机制间作用力量化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1496" y="2826" width="216" height="49" as="geometry" />
+          <mxGeometry x="1541" y="2846" width="216" height="49" as="geometry" />
         </mxCell>
         <mxCell id="uBsyKS8tajvV3OcIKyqI-65" value="专题四: 价值链升级路径与高质量发展政策研究" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1477" y="3041" width="254" height="84" as="geometry" />
+          <mxGeometry x="1522" y="3061" width="254" height="84" as="geometry" />
         </mxCell>
         <mxCell id="uBsyKS8tajvV3OcIKyqI-66" value="4.1 现行政策梳理与效果评估" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1816" y="2897" width="237" height="67" as="geometry" />
+          <mxGeometry x="1861" y="2917" width="237" height="67" as="geometry" />
         </mxCell>
         <mxCell id="uBsyKS8tajvV3OcIKyqI-67" value="4.2 情景模拟优化路径" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1826" y="3013" width="217" height="49" as="geometry" />
+          <mxGeometry x="1871" y="3033" width="217" height="49" as="geometry" />
         </mxCell>
         <mxCell id="uBsyKS8tajvV3OcIKyqI-68" value="4.3 优化方案与政策建议" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1818" y="3112" width="233" height="49" as="geometry" />
+          <mxGeometry x="1863" y="3132" width="233" height="49" as="geometry" />
         </mxCell>
         <mxCell id="uBsyKS8tajvV3OcIKyqI-69" value="方法1: 多源数据分析、案例研究、计量模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1809" y="1435" width="252" height="84" as="geometry" />
+          <mxGeometry x="1854" y="1455" width="252" height="84" as="geometry" />
         </mxCell>
         <mxCell id="uBsyKS8tajvV3OcIKyqI-70" value="方法2: 系统动力学、因果分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1824" y="1569" width="221" height="67" as="geometry" />
+          <mxGeometry x="1869" y="1589" width="221" height="67" as="geometry" />
         </mxCell>
         <mxCell id="uBsyKS8tajvV3OcIKyqI-71" value="方法3: 实证计量、参数估计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1806" y="1686" width="257" height="49" as="geometry" />
+          <mxGeometry x="1851" y="1706" width="257" height="49" as="geometry" />
         </mxCell>
         <mxCell id="uBsyKS8tajvV3OcIKyqI-72" value="方法4: 政策评估、情景模拟" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1806" y="1785" width="257" height="49" as="geometry" />
+          <mxGeometry x="1851" y="1805" width="257" height="49" as="geometry" />
         </mxCell>
         <mxCell id="uBsyKS8tajvV3OcIKyqI-73" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.6;exitY=0;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="uBsyKS8tajvV3OcIKyqI-53" target="uBsyKS8tajvV3OcIKyqI-54">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="846" y="1957" />
+              <mxPoint x="891" y="1977" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="uBsyKS8tajvV3OcIKyqI-74" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.7;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="uBsyKS8tajvV3OcIKyqI-53" target="uBsyKS8tajvV3OcIKyqI-55">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="846" y="2074" />
+              <mxPoint x="891" y="2094" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -361,14 +361,14 @@
         <mxCell id="uBsyKS8tajvV3OcIKyqI-76" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.63;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="uBsyKS8tajvV3OcIKyqI-57" target="uBsyKS8tajvV3OcIKyqI-58">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1149" y="2336" />
+              <mxPoint x="1194" y="2356" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="uBsyKS8tajvV3OcIKyqI-77" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="uBsyKS8tajvV3OcIKyqI-57" target="uBsyKS8tajvV3OcIKyqI-59">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1149" y="2435" />
+              <mxPoint x="1194" y="2455" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -380,14 +380,14 @@
         <mxCell id="uBsyKS8tajvV3OcIKyqI-79" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.63;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="uBsyKS8tajvV3OcIKyqI-61" target="uBsyKS8tajvV3OcIKyqI-62">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1452" y="2653" />
+              <mxPoint x="1497" y="2673" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="uBsyKS8tajvV3OcIKyqI-80" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="uBsyKS8tajvV3OcIKyqI-61" target="uBsyKS8tajvV3OcIKyqI-63">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1452" y="2752" />
+              <mxPoint x="1497" y="2772" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -399,105 +399,105 @@
         <mxCell id="uBsyKS8tajvV3OcIKyqI-82" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.66;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="uBsyKS8tajvV3OcIKyqI-65" target="uBsyKS8tajvV3OcIKyqI-66">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1756" y="2930" />
+              <mxPoint x="1801" y="2950" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="uBsyKS8tajvV3OcIKyqI-83" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.05;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="uBsyKS8tajvV3OcIKyqI-65" target="uBsyKS8tajvV3OcIKyqI-67">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1756" y="3038" />
+              <mxPoint x="1801" y="3058" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="uBsyKS8tajvV3OcIKyqI-84" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.97;exitY=1;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="uBsyKS8tajvV3OcIKyqI-65" target="uBsyKS8tajvV3OcIKyqI-68">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1756" y="3137" />
+              <mxPoint x="1801" y="3157" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="uBsyKS8tajvV3OcIKyqI-85" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.54;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="uBsyKS8tajvV3OcIKyqI-52" target="uBsyKS8tajvV3OcIKyqI-53">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="493" y="2199" />
+              <mxPoint x="538" y="2219" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="uBsyKS8tajvV3OcIKyqI-86" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=1;entryX=0.44;entryY=1;rounded=0;" edge="1" parent="1" source="uBsyKS8tajvV3OcIKyqI-52" target="uBsyKS8tajvV3OcIKyqI-57">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="493" y="2983" />
-              <mxPoint x="846" y="2983" />
+              <mxPoint x="538" y="3003" />
+              <mxPoint x="891" y="3003" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="uBsyKS8tajvV3OcIKyqI-87" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=1;entryX=0.37;entryY=1;rounded=0;" edge="1" parent="1" source="uBsyKS8tajvV3OcIKyqI-52" target="uBsyKS8tajvV3OcIKyqI-61">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="493" y="3041" />
-              <mxPoint x="1149" y="3041" />
+              <mxPoint x="538" y="3061" />
+              <mxPoint x="1194" y="3061" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="uBsyKS8tajvV3OcIKyqI-88" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.68;exitY=1;entryX=0;entryY=0.6;rounded=0;" edge="1" parent="1" source="uBsyKS8tajvV3OcIKyqI-52" target="uBsyKS8tajvV3OcIKyqI-65">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="493" y="3093" />
-              <mxPoint x="1452" y="3093" />
+              <mxPoint x="538" y="3113" />
+              <mxPoint x="1497" y="3113" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="uBsyKS8tajvV3OcIKyqI-89" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.83;exitY=1;entryX=0.47;entryY=1;rounded=0;" edge="1" parent="1" source="uBsyKS8tajvV3OcIKyqI-53" target="uBsyKS8tajvV3OcIKyqI-69">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="846" y="2276" />
-              <mxPoint x="1781" y="2276" />
+              <mxPoint x="891" y="2296" />
+              <mxPoint x="1826" y="2296" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="uBsyKS8tajvV3OcIKyqI-90" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.92;exitY=1;entryX=0.48;entryY=1;rounded=0;" edge="1" parent="1" source="uBsyKS8tajvV3OcIKyqI-57" target="uBsyKS8tajvV3OcIKyqI-70">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1149" y="2593" />
-              <mxPoint x="1781" y="2593" />
+              <mxPoint x="1194" y="2613" />
+              <mxPoint x="1826" y="2613" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="uBsyKS8tajvV3OcIKyqI-91" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.92;exitY=1;entryX=0.49;entryY=1;rounded=0;" edge="1" parent="1" source="uBsyKS8tajvV3OcIKyqI-61" target="uBsyKS8tajvV3OcIKyqI-71">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1452" y="2910" />
-              <mxPoint x="1781" y="2910" />
+              <mxPoint x="1497" y="2930" />
+              <mxPoint x="1826" y="2930" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="uBsyKS8tajvV3OcIKyqI-92" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.8;exitY=1;entryX=0.49;entryY=1;rounded=0;" edge="1" parent="1" source="uBsyKS8tajvV3OcIKyqI-65" target="uBsyKS8tajvV3OcIKyqI-72">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1756" y="3167" />
-              <mxPoint x="1781" y="3167" />
+              <mxPoint x="1801" y="3187" />
+              <mxPoint x="1826" y="3187" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="uBsyKS8tajvV3OcIKyqI-93" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.6;exitY=1;entryX=0.17;entryY=0;rounded=0;" edge="1" parent="1" source="uBsyKS8tajvV3OcIKyqI-53" target="uBsyKS8tajvV3OcIKyqI-57">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="846" y="2457" />
+              <mxPoint x="891" y="2477" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="uBsyKS8tajvV3OcIKyqI-94" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.6;exitY=1;entryX=0.13;entryY=0;rounded=0;" edge="1" parent="1" source="uBsyKS8tajvV3OcIKyqI-57" target="uBsyKS8tajvV3OcIKyqI-61">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1149" y="2782" />
+              <mxPoint x="1194" y="2802" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="uBsyKS8tajvV3OcIKyqI-95" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.63;exitY=1;entryX=0;entryY=0.08;rounded=0;" edge="1" parent="1" source="uBsyKS8tajvV3OcIKyqI-61" target="uBsyKS8tajvV3OcIKyqI-65">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1452" y="3041" />
+              <mxPoint x="1497" y="3061" />
             </Array>
           </mxGeometry>
         </mxCell>
